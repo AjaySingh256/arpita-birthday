@@ -1,0 +1,1 @@
+export const ourSong = { title: 'Our Song', artist: '', src: '/music/our-song.mp3' };
